@@ -1,0 +1,9 @@
+{
+  "api-bind": "127.0.0.1:8090",
+  "url": "stratum+tcp://localhost:5000",
+  "user": "admin",
+  "pass": "admin",
+  "algo": "yespower",
+  "threads": 4,
+  "no-color": true
+}
